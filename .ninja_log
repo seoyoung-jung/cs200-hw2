@@ -1,0 +1,26 @@
+# ninja log v5
+6	1780	1758122734916668142	source/CMakeFiles/cs200_fun.dir/Demo/DemoPolaroid.cpp.o	f281048372b3273c
+4784	7817	1758122553950065899	source/CMakeFiles/cs200_fun.dir/OpenGL/Shader.cpp.o	c6b1cf48fec398b1
+2	4613	1758122550749068828	CMakeFiles/the_imgui.dir/_deps/dearimgui-src/imgui_widgets.cpp.o	e05d5d4189cc915c
+1872	5172	1758122551306401653	source/CMakeFiles/cs200_fun.dir/Engine/Input.cpp.o	408da2b406547a46
+4507	6908	1758122553044400064	source/CMakeFiles/cs200_fun.dir/Engine/Vec2.cpp.o	87757010771d28ed
+612	4505	1758122550635402265	source/CMakeFiles/cs200_fun.dir/Engine/Engine.cpp.o	bd1efca5b32ac86
+4	4784	1758122550906735352	source/CMakeFiles/cs200_fun.dir/Demo/DemoVAO.cpp.o	48d52c956c3f208f
+2	4592	1758122550730735511	CMakeFiles/the_imgui.dir/_deps/dearimgui-src/imgui_draw.cpp.o	a3cd053e4e8f2340
+3979	6789	1758122552923400175	source/CMakeFiles/cs200_fun.dir/Engine/Logger.cpp.o	ca12275fab50a18a
+1780	12653	1758122745761740827	cs200_fun.html	2fbbb383d498e5fe
+2	9771	1758122555908064377	CMakeFiles/the_imgui.dir/_deps/dearimgui-src/imgui.cpp.o	717e48bc5249e691
+9771	9929	1758122556010730951	libthe_imgui.a	d2c7d05f835c828
+4959	7884	1758122554023399166	source/CMakeFiles/cs200_fun.dir/main.cpp.o	100eca59ea8bfbd9
+3	824	1758122546961405118	CMakeFiles/the_imgui.dir/_deps/dearimgui-src/backends/imgui_impl_sdl2.cpp.o	9856da77a38c2eea
+4593	7702	1758122553840065999	source/CMakeFiles/cs200_fun.dir/Engine/Window.cpp.o	4f75b97ce27348c2
+3	611	1758122546752405307	CMakeFiles/the_imgui.dir/_deps/dearimgui-src/backends/imgui_impl_opengl3.cpp.o	4c4dcdd6e11ef739
+828	4456	1758122550591402305	source/CMakeFiles/cs200_fun.dir/Engine/GameStateManager.cpp.o	5ebe3d7c1b714593
+4614	7402	1758122553539399607	source/CMakeFiles/cs200_fun.dir/OpenGL/GL.cpp.o	c7ab8cc32046b06
+2	1871	1758122548010071330	CMakeFiles/the_imgui.dir/_deps/dearimgui-src/imgui_tables.cpp.o	2084f395c90089c9
+4457	7067	1758122553202066586	source/CMakeFiles/cs200_fun.dir/Engine/Path.cpp.o	c4a238f66f73f638
+4805	6519	1758122552655733752	source/CMakeFiles/cs200_fun.dir/OpenGL/VertexArray.cpp.o	5caa47e6c34a27a5
+3	3972	1758122550103736082	source/CMakeFiles/cs200_fun.dir/CS200/ImGuiHelper.cpp.o	214aa53a1e1a6828
+4	4956	1758122551071735202	source/CMakeFiles/cs200_fun.dir/CS200/RenderingAPI.cpp.o	732074f781494fb1
+5	1810	1758122886502856635	source/CMakeFiles/cs200_fun.dir/Demo/DemoPolaroid.cpp.o	f281048372b3273c
+1810	11380	1758122896046384856	cs200_fun.html	2fbbb383d498e5fe
